@@ -1,0 +1,7 @@
+EMP DTLS:
+NAME:
+DEPT:
+DEG:
+SAL:
+ADDR:
+CONT. :

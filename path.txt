@@ -1,0 +1,4 @@
+Software/Coding path:C:\xampp\htdocs
+Software/Coding RUN : localhost/folderPath
+DB path :C:\xampp\mysql\data
+DB Run :http://localhost/phpmyadmin
